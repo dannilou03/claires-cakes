@@ -1,0 +1,86 @@
+.form-group {
+  background-color: #fabec7;
+}
+
+header {
+  text-align: center;
+  text-align: center;
+  background: url('http://www.rescake.com/postpic/2013/05/facebook-timeline-cover-cupcakes_379651.png');
+  background-size: cover;
+  opacity: 0.7;
+  font-family: "GT Sectra Fine",Georgia,"Times New Roman",Times,serif;
+    }
+
+#testimonals {
+  text-align: center;
+  margin: 20px 12px 0px 12px;
+}
+
+#footer {
+   background-color: rgba(255, 245, 238, 1);
+ text-align: center;
+}
+
+body {
+  padding: 10px;
+  background-color: #fabec7;
+  font-family: "GT Sectra Fine",Georgia,"Times New Roman",Times,serif;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: serif;
+  text-align: center;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(112, 128, 144, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(255, 245, 238, 1);
+    border-width: 0px;
+    border-radius: 0px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(112, 128, 144, 1);
+    background-color: rgba(255, 245, 238, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(112, 128, 144, 1);
+    background-color: rgba(255, 245, 238, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(112, 128, 144, 1);
+    background-color: rgba(250, 190, 199, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #fabec7;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #fabec7;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fabec7;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #fff5ee;
+}
